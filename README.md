@@ -3,9 +3,7 @@
 For this project I had to create a data set by simulating a real-world phenomenon of
 my choosing.
 
-In my case, I chose the phenomenon of manual transmission drivers versus automatic transmission drivers in Rosscarbery, Co. Cork.
-
-As an American living in Rosscarbery, and having attempted the driving test in a manual transmission and failed epically, I was interested in finding out how much of an outsider I am in my preference for driving automatic transmission cars in this part of the world.
+In my case, I chose the natural real-world phenomenon of tornadoes in Kansas, USA
 
 Then, rather than collect data related to the phenomenon, I  modeled and synthesised my data using Python by using the numpy.random package for this purpose.
 
